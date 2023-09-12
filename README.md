@@ -18,6 +18,7 @@
 2、用户提前一天下单；
 3、平台在收集好订单之后，调动供应链，从仓库发货到自提点（团长家或者便利店）；
 4、用户前往自提点提货
+
 ![1_8}D @W6UFE %4M}WK }J4](https://github.com/Liaohaiwang/Wangyun-preferred/assets/86451316/ac37e0ef-ba79-4314-81b7-78e8db746336)
 
 **3 功能架构**
